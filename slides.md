@@ -9,21 +9,33 @@
 
 ### Paul
 
-### Around 13 others
+### Around 13 others (and growing)
 
+Note: 
+1. Who is currently involved in MakerSpace
+2. The Genesis of Dundee MakerSpace - Grant posted on 1st March on the TLUG an invite to Edinburgh Hacklab
 
 
 ## What is a MakerSpace?
 
 
-> community-operated workspace where people with common interests, often in computers, technology, science, digital art or electronic art, can meet, socialize and/or collaborate
+> community-operated workspace where people with common interests, often in computers, technology, science, digital art or electronic art, can meet, socialise and/or collaborate
 
 [Wikipedia](https://en.wikipedia.org/wiki/Makerspace)
 
+Note: 
+1. A Community Centre with tools
+2. Combining manufacturing equipment with the community and education
+3. Members will design, prototype and create manufactured works that would not be possible to create alone.
+4. People from different creative backgrounds and experience to collaborate on exciting projects.
 
-### Global network
 
-Note: Over 500 worldwide
+## Global network
+
+Note: 
+1. Over 500 worldwide
+2. They are typically called Hacker spaces
+3. We opted for MakerSpace as unfortunately the original definition of a hacker has been contorted by the media
 
 
 ![What is a hackerspace](http://i.imgur.com/wn0PL.jpg)
@@ -37,8 +49,13 @@ Note: Over 500 worldwide
 ### Our ethics
 
 - Openness
-- Not for profit
+- Nonprofit Organisation
 
+Note: 
+1. Community managed and open to anyone to join and be creative
+2. We will most likely be a Company Limited by Guarantee
+3. We want the benefit of Corporate status, limited liability for members, enter into contract and purchase assets
+4. The surplus profits will be reinvested. 
 
 
 ## What is available here?
