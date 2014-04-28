@@ -33,7 +33,7 @@ body {
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  margin: 0 0 20px 0;
+  margin: 20px 0 20px 0;
   color: #eeeeee;
   font-family: "Montserrat", Impact, sans-serif;
   line-height: 0.9em;
@@ -64,6 +64,13 @@ body {
 .reveal .roll span:after {
   color: #fff;
   background: #d08a1d; }
+
+/*********************************************
+ * SLIDES
+ *********************************************/
+
+ .reveal .slides>section.present, .reveal .slides>section>section.present {
+  border-radius: 10px }
 
 /*********************************************
  * IMAGES
