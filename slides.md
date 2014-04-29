@@ -16,7 +16,7 @@ Note:
 
 Note:
 1. Who is currently involved in MakerSpace
-2. The Genesis of Dundee MakerSpace - On suggestion from Felix, Grant posted on 1st March on the TLUG an invite to Edinburgh Hacklab
+2. The Genesis of Dundee MakerSpace - On suggestion from Felix Bauer, Grant posted on 1st March on the TLUG an invite to Edinburgh Hacklab
 
 
 
@@ -217,7 +217,7 @@ Note:
 - Memberships (Around &pound;25 to &pound;30 a month)
 - Grants & Funding
 - Crowd Funding
-- Events, Courses, Equipment hire etc.
+- Events, Courses, Equipment and Room hire etc.
 
 Note:
 1. This is what we're looking into just now, but there is more to do in the future
