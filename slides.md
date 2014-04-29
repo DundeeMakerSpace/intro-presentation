@@ -2,6 +2,9 @@
 
 [www.dundeemakerspace.co.uk](http://www.dundeemakerspace.co.uk)
 
+Note: 
+1. PAUL STARTS
+
 
 ## Who are we?
 
@@ -56,11 +59,14 @@ Note:
 2. We will most likely be a Company Limited by Guarantee
 3. We want the benefit of Corporate status, limited liability for members, enter into contract and purchase assets
 4. The surplus profits will be reinvested. 
+5. HAND OVER TO GRANT
 
 
 ## What is available here?
 
-note: Nothing, but there are in Edinburgh & Glasgow and to a lesser extent Aberdeen
+Note: 
+1. GRANT STARTS
+2. Nothing, but there are in Edinburgh & Glasgow and to a lesser extent Aberdeen
 
 
 ### Edinburgh Hacklab
@@ -156,11 +162,15 @@ note: That's why we're here
 - Dundee SEN
 - Crowdfunding
 
-note: This is what we're looking into just now, but there is more to do in the future
-
+Note: 
+1. This is what we're looking into just now, but there is more to do in the future
+2. HAND OVER TO PAUL
 
 
 ## The next step
+
+Note:
+1. PAUL STARTS
 
 
 ### Funding
@@ -169,6 +179,9 @@ note: This is what we're looking into just now, but there is more to do in the f
 - Grants & Funding
 - Crowd Funding
 - Events, Courses, Equipment hire etc.
+
+Note: 
+1. This is what we're looking into just now, but there is more to do in the future
 
 
 ### Nailing down the location
@@ -180,7 +193,9 @@ Note: Negotiating & getting what we need
 
 Donations & gifts welcome
 
-Note: Buying equipment if we have the money
+Note: 
+1. Buying equipment if we have the money
+2. HAND OVER TO GRANT
 
 
 ### Start making!
@@ -189,7 +204,9 @@ Note: Buying equipment if we have the money
 
 ## How can you get involved?
 
-note: We need you
+Note: 
+1. GRANT STARTS
+2. We need you
 
 
 ### Sign up to the mailing list
