@@ -131,7 +131,6 @@ Note: Boxes full of all sorts
 Note: Every member gets a storage box and can pay for more if needed
 
 
-
 ### Glasgow MAKLab
 
 Note:
