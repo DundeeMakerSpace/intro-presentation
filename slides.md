@@ -36,7 +36,7 @@ Note:
 ## Global network
 
 Note: 
-1. Over 500 worldwide
+1. Over 1200 worldwide
 2. They are typically called Hacker spaces
 3. We opted for MakerSpace as unfortunately the original definition of a hacker has been contorted by the media
 
